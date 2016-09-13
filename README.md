@@ -45,3 +45,6 @@ Steps to follow when OSU Carpentry team is hosting a self-organized workshop
 14. The SWC admin will contact you for an attendance list, report on how the workshop went, etc. 
 
 15. Write a blog post!
+
+
+For more information on workshops, visit the [SWC Workshop Operations page](http://software-carpentry.org/workshops/operations/).
