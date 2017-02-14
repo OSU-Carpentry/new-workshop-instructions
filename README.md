@@ -19,35 +19,39 @@ Steps to follow when OSU Carpentry team is hosting a self-organized workshop
 
 6. When importing the [SWC workshop webpage template repo](https://github.com/swcarpentry/workshop-template) into the OSU-SWC organization page, you can use the format YYYY-MM-DD-okstate for that specific workshop. Instructions for importing are on the README.md of the SWC template repo. 
 
-7. Once the Github workshop webpage and Eventbrite registration pages are setup, you can begin promoting the workshop.
+7. Once the Github workshop webpage and Eventbrite registration pages/Digital Badges calendar page are setup, you can begin promoting the workshop.
 
 **Leading up to Workshop**
 
-7. It is encouraged to provide some type of access to beverages. 
-   * At OSU, we usually provide coffee and often breakfast (something easy like donuts), so plan ahead.
+7. Schedule a meeting with instructors and helpers to review gameplan for the workshop - talk about things like "zone defense" strategy for helpers, how to address learners who fall behind, when to interrupt instructor to slow down, etc.
 
-8. Stock up on green and red sticky notes!
+8. It is encouraged to provide some type of access to beverages. 
+   * At OSU, the library usually provides coffee and often breakfast (something easy like donuts - Food Pyramid sells Krispy Kreme donuts very cheap!!!), so plan ahead.
 
-9. A few days before the workshop, send a reminder email and encourage registered learners to fill out the pre-workshop survey.
+9. Stock up on green and red sticky notes!
+
+10. A few days before the workshop, send a reminder email and encourage registered learners to fill out the pre-workshop survey.
 
 **During the Workshop**
 
-10. Use that extra 30 minutes before the workshop starts to also encourage anyone who hasn't taken the pre-workshop survey to do so.
+11. Use that extra 30 minutes before the workshop starts to also encourage anyone who hasn't taken the pre-workshop survey to do so.
  
-11. Use the Etherpad and sticky notes.
+12. Use the Etherpad and sticky notes.
 
-12. Have fun!
+13. Have fun!
 
-13. Before workshop ends, mention the post-workshop survey. 
+14. Before workshop ends, mention the post-workshop survey. 
    * Encourage learners to go ahead and take it there since we usually have the room reserved for at least 30 minutes after, but they can also take it after they leave.
 
-14. Also mention ways to learn more (i.e. the SWC website, DC), how to follow up with questions, and how to become more involved with SWC if they're interested.
+15. Also mention ways to learn more (i.e. the SWC website, DC), how to follow up with questions, and how to become more involved with SWC if they're interested.
 
 **Post-Workshop**
 
 14. The SWC admin will contact you for an attendance list, report on how the workshop went, etc. 
 
-15. Write a blog post!
+15. Encourage instructors to participate on a SWC discussion call (post-workshop): http://pad.software-carpentry.org/instructor-discussion 
+
+16. You or another instructor are encouraged to write a blog post (optional)! Instructions at this page under the development section: https://github.com/swcarpentry/website
 
 
 For more information on workshops, visit the [SWC Workshop Operations page](http://software-carpentry.org/workshops/operations/).
