@@ -14,6 +14,7 @@ Steps to follow when OSU Carpentry team is hosting a self-organized workshop
 
 5. An [SWC administrator](http://software-carpentry.org/checklists/admin/) will contact you to see if you need help setting up the Github workshop webpage, Eventbrite registration page, Etherpad page etc. 
    * The OSU Carpentry team will usually set up the workshop webpage ([by importing the existing SWC workshop webpage template repo](https://github.com/swcarpentry/workshop-template)), the Eventbrite registration page and Etherpad page, but the SWC admin is there just in case. 
+   * If the workshop is being offered as OSU Digital Badges credit, work with Victor Baeza (victor.baeza@okstate.edu) to get a link set up on the digital badges calendar where grad students can sign up.
    * The SWC admin also makes sure the workshop is listed on the SWC workshops webpage and will create a pre-workshop survey for you to list on the workshop webpage.
 
 6. When importing the [SWC workshop webpage template repo](https://github.com/swcarpentry/workshop-template) into the OSU-SWC organization page, you can use the format YYYY-MM-DD-okstate for that specific workshop. Instructions for importing are on the README.md of the SWC template repo. 
