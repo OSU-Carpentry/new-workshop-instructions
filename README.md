@@ -24,6 +24,8 @@ Steps to follow when OSU Carpentry team is hosting a self-organized workshop
 **Leading up to Workshop**
 
 7. Schedule a meeting with instructors and helpers to review gameplan for the workshop - talk about things like "zone defense" strategy for helpers, how to address learners who fall behind, when to interrupt instructor to slow down, etc.
+   * You can set up a new etherpad during this time. Visit http://pad.software-carpentry.org/ and then finish the URL you want for the workshop (YYYY-MM-DD-okstate)
+   * The top information about Software Carpentry should remain - edit or add other information below (i.e. sign in area, any links you want to include, etc.)
 
 8. It is encouraged to provide some type of access to beverages. 
    * At OSU, the library usually provides coffee and often breakfast (something easy like donuts - Food Pyramid sells Krispy Kreme donuts very cheap!!!), so plan ahead.
